@@ -1,0 +1,187 @@
+# Open Fiction Access Token(OFAT) v1.0 
+
+**Copyright © [2021] [Author:崖雁yayan] [Work:潮篡OverFlowAndThrow]**
+
+**OFAT v1.0 [2026] [AuthorGitHubAccount:y-in-gb] [AuthorGitHubRepository:open-fiction-access-token]**
+
+---
+
+## 1. Definitions
+
+**"Author"** : The author of the Work.
+
+**"Work"** : the Work includes:
+- Chinese (original) text content written by the Author and released on GitHub by the Author
+- English (translation) text content written by the Author and released on GitHub by the Author
+
+**"Activation Date"** : 2026-04-14 Beijing Time (UTC+8).
+
+**"Before Activation"** : Any time strictly before the Activation Date.
+
+**"After Activation"** : The Activation Date and all times after.
+
+**"Adaptation"** : Any work based on the Work, including translated/derivative text work, AI-generated videos/animations/webcomics, and human art.
+
+**"Licensee"** or **"You"**: Any individual, organization, or legal entity exercising rights under this license. Where an AI model, AI agent, or automated process generates output based on the Work, the **operator, developer, or deployer** of that AI system is the "Licensee" responsible for compliance.
+
+**"Personal Likeness"** : A person's face, voice, or **distinctive, identifiable physical characteristics** (including but not limited to unique eye shape/color, vocal timbre, etc) that would cause a reasonable viewer or listener to identify a specific individual, whether living or deceased, even if the full face is obscured or stylized.
+
+---
+
+## 2. Before Activation (All Rights Reserved)
+
+Before the Activation Date, all rights of the Work are reserved. No copying, distribution, modification, translation, or adaptation.
+
+---
+
+## 3. After Activation (Conditional Open Use)
+
+On and after the Activation Date, the Work is licensed under **OFAT v1.0**.
+
+Licensee may:
+
+- **Share** — Copy and distribute the Work as an unmodified digital or printed book for non-commercial or commercial purpose
+- **Adapt in text** — translate the Work or build derivative work upon the Work in text format for non-commercial or commercial purpose
+- **Create AI media** — Create AI-generated videos, AI-generated animations, or AI-generated webcomics based on the Work for non-commercial or commercial purpose
+- **Create human art** — Create Illustrations, character designs, visual interpretations based on the Work for non-commercial or commercial purpose
+
+### 3.1 Excluded Media (All Rights Reserved)
+
+Dramas (including audio dramas), audiobooks, movies, stage plays, music, games, and any media involving a traditional human creative team (actors, directors, composers, musicians, etc) are **excluded** from this license and remain all rights reserved to the Author.
+
+If you wish to distribute or adapt the Work into any excluded medium, you must obtain separate permission from the Author.
+
+### 3.2 Transparency for AI Animations & Webcomics
+
+**This section applies specifically to AI-generated animations and AI-generated webcomics.**
+
+You must publicly disclose:
+- Art style(s) and artist name(s) referenced or used (e.g., LoRA training source).
+- Voice source/models and voice owner(s).
+- AI tools/models used (e.g., Midjourney, ElevenLabs, Stable Diffusion, Seedance, etc).
+- Significant modifications to the Work's plot or characters.
+
+Failure to provide the transparency means that:
+- The rights under this license are not granted for your Adaptation
+- Your Adaptation is considered all rights reserved by the Author
+- No permission, free or otherwise, is given to you
+
+### 3.3 Prominent Attribution (All Adaptations)
+
+For any Adaptation, you must display **the Author's name and the Work's original title** prominently on:
+- **Books/e-books** - The book cover or title page.
+- **AI-generated videos/animations/webcomics** - Description or opening credits (minimum 2 seconds or equivalent prominence).
+- **Human art** - Image description or caption.
+- **Text adaptations** - First page or credit section.
+
+### 3.4 No DRM / Technological Measures
+
+You may not apply effective technological measures (DRM, encryption restricting sharing/adaptation) that prevent others from exercising rights under this license. Basic access control (login) or transmission encryption is allowed if recipients can still redistribute/adapt.
+
+### 3.5 Warranty of Consent for Personal Likeness (All AI Media)
+
+**By exercising the rights granted in Section 3 for creating AI media, you warrant and represent that:**
+
+1. **Voice:** You have obtained explicit, written consent from any identifiable individual whose voice is simulated, cloned, or referenced as a source for character dialogue or narration.
+2. **Appearance:** You have obtained explicit, written consent from any identifiable individual whose Personal Likeness is used to portray a character or is otherwise depicted in the Adaptation.
+3. **Third-Party Rights:** You are solely responsible for securing all necessary rights and clearances from third parties. The Author of the Work disclaims all liability for your violation of publicity, privacy, or intellectual property rights belonging to others.
+
+*Note: This section does not restrict the use of wholly synthetic, non-identifiable faces/voices (e.g., "This Person Does Not Exist" style images or generic AI voice models not trained on a specific individual).*
+
+---
+
+## 4. Research Token (Use as Dataset/Corpus)
+
+On and after the Activation Date, the Work is explicitly licensed as research data for any scientific or scholarly purpose. This includes:
+
+- Natural Language Processing (NLP) & Large Language Model (LLM) — Training, fine-tuning, or evaluating language models, GraphRAG, machine translation systems, text classifiers, or any computational linguistics models
+- Linguistics Research — Syntactic parsing, semantic analysis, bilingual corpus alignment (Chinese-English), or discourse analysis
+- Social Science & Psychology — Content analysis, sentiment analysis, reader response studies, or any empirical study using the Work as source material
+- AI Safety & Alignment Research — Using the Work as a testbed for instruction following, value alignment, or content filtering benchmarks
+- Educational Research — Studies on reading comprehension, translation quality assessment, or second-language acquisition
+
+### Conditions for the Research Token:
+
+1. Attribution — Any research output (papers, datasets, models, benchmarks) must cite the Work and the Author clearly.
+
+2. Publishing Research — If you publish findings based on the Work, you are required to share your derived datasets, annotations, or model checkpoints with the research community under an open license (e.g. MIT, Apache 2.0, or other open license).
+
+3. No Transparency Requirement — Unlike AI media Adaptation, research use does not require disclosure of tools or methods, though standard scientific reproducibility practices are encouraged.
+
+4. Commercial Research Allowed — Industrial research labs, corporate R&D, and commercially funded studies may use the Work without separate permission.
+
+### What the Research Token does NOT allow:
+
+- Re-packaging the Work as a standalone commercial product (e.g., selling the raw text as a proprietary dataset)
+- Using the Work to generate harmful, deceptive, or malicious AI systems — standard ethical research practices apply
+
+---
+
+## 5. No Legal Recourse Against Author
+
+By using this license, you agree **not to sue** the Author regarding:
+- Any translation, derivative work, and Adaptation.
+- Timing or completeness of the Author's own Work, translation, and derivative work.
+- Any claim that your work should be prioritized over the Author's Work or future work.
+
+This section survives termination.
+
+---
+
+## 6. Compliance with Age Rating Laws
+
+You must comply with all applicable explicit content and age rating laws in your jurisdiction. The Author assumes no liability for your violations.
+
+This section survives termination.
+
+---
+
+## 7. No Warranty
+
+The Work is provided "AS IS". No warranties. Author not liable for any damages.
+
+This section survives termination.
+
+---
+
+## 8. Downstream Licensing
+
+- **Creative Adaptations (Section 3)** - You are **encouraged but is NOT required** to release your adaptation under the OFAT license.
+- **Research outputs (Section 4)** - You **must** release derived datasets/checkpoints under MIT, Apache 2.0, or other open license.
+
+---
+
+## 9. License Termination
+
+### 9.1 General Violation (Automatic Revocation)
+If licensee violate any term of this license, all rights granted to the licensee are automatically revoked immediately. No warning required.
+
+### 9.2 Additional Termination for Commercial Malicious Conduct
+
+For all licensee, the following also triggers automatic termination:
+- **Debasement or Defamation** — Publicly disparaging, ridiculing, or otherwise attacking the Work or the Author's reputation.
+- **False originality claims** — Claiming your derivative work is original when it is actually a work build upon the Work.
+- **Superiority assertions intended to harm** — Claiming your work "replaces" or is "better than" the original to devalue the Author or the Work.
+
+### 9.3 Consequences of License Termination
+
+Upon License Termination:
+1. All rights granted to Licensee are automatically revoked immediately.
+2. Licensee must cease all use, distribution, and adaptation of the Work.
+3. Licensee must delete/destroy all copies of the Work and Adataption where technically feasible.
+4. Licensee who used the Work for commercial purpose (e.g. selling Adaptation, monetizing AI media, running ads, etc) must return all profits to: 
+- the Author whose Work been used by licensee to build any Adaptation (Refer to Section 3).
+- the artists or third-party whose art/animations/webcomics been used by licensee without their written consent (Refer to Section 3).
+- the individuals or third-party whose voice or apperance been used by licensee without their written consent (Refer to Section 3).
+
+### 9.4 Restoration of Rights
+
+**If your license terminates, you may request reinstatement only by the Author's written permission. No automatic license restoration applies.**
+
+---
+
+## 10. Interpretation
+
+If any part is unenforceable, the rest remains in effect. Rights before Activation Date are explicitly preserved.
+
+**End of OFAT v1.0**
