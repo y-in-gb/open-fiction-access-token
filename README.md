@@ -17,6 +17,7 @@ No waiting. No hidden fees. The OFAT v1.0 license gives you specific **Tokens**(
 | ✍️ **Text Adaptations** | Translation, fan fiction, rewritten endings, spin-off stories | ✅ |
 | 🎨 **Human Art** | Illustrations, character designs, visual interpretations | ✅ |
 | 📖 **Share** | Copy and distribute the fiction as digital or printed book | ✅ |
+
 *Note: Please follow the corresponding license terms in [`LICENSE`](LICENSE) as you use the tokens*
 ---
 
@@ -57,12 +58,17 @@ Here's a screenshot of the fiction in Bilibili:
 - **Total Number of Views** - 12k
 
 ### 🚧 Under Construction
-- Chinese original content: [`《潮篡》`](OFAT-zh.txt)
-- English translation content: [`《Over Flow And Throw》`](OFAT-eng.txt)
+- Chinese original content: `《潮篡》`
+- English translation content: `《Over Flow And Throw》`
 - Chinese-English Vocabulary
-- Latest book cover image and license
 
 *You may star🌟 this project to follow up the updates*
+
+### 📢 Notice
+Due to crawlers and robots overflow, I’ll start to share the fiction data in another form to make sure there’s human-in-the-loop for better community interactions.
+
+#### `Chapter 3: Overthrow`
+This chapter contains explicit content. Author is currently seeking a safe way to release the content, if you have any thoughts, feel free to drop them in the discussion via https://github.com/y-in-gb/open-fiction-access-token/discussions
 
 ## 🏆 Acknowledgement
 ### This Fiction is Inspired By
