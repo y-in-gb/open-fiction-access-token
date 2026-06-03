@@ -60,7 +60,6 @@ Here's a screenshot of the fiction in Bilibili:
 ### 🚧 Under Construction
 - Chinese original content: `《潮篡》`
 - English translation content: `《Over Flow And Throw》`
-- Chinese-English Vocabulary
 
 *You may star🌟 this project to follow up the updates*
 
@@ -68,6 +67,9 @@ Here's a screenshot of the fiction in Bilibili:
 Due to crawlers and robots overflow, I’ll start to share the fiction data in another form to make sure there’s human-in-the-loop for better community interactions.
 
 #### `Chapter 3: Overthrow`
+This chapter contains explicit content. Author is currently seeking a safe way to release the content, if you have any thoughts, feel free to drop them in the discussion via https://github.com/y-in-gb/open-fiction-access-token/discussions
+
+#### `Chapter 6: Overflow`
 This chapter contains explicit content. Author is currently seeking a safe way to release the content, if you have any thoughts, feel free to drop them in the discussion via https://github.com/y-in-gb/open-fiction-access-token/discussions
 
 ## 🏆 Acknowledgement
@@ -103,6 +105,5 @@ This chapter contains explicit content. Author is currently seeking a safe way t
 
 ### This License is Inspired By
 - Creative Commons Attribution 4.0 International (CC BY 4.0)
-- MiniMax modified MIT License
 - Llama Community License
 ---
