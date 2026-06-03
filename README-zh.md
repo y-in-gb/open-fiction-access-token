@@ -58,7 +58,6 @@
 ### 🚧 待更新内容
 - 中版原文：`《潮篡》`
 - 英版翻译：`《Over Flow And Throw》`
-- 中英术语表
 
 *你可以通过标星🌟本项目来关注更新动态*
 
@@ -66,6 +65,9 @@
 由于爬虫和机器人数量过多，我将开始用其他形格式分享小说数据，以确保有人类能参与数据收集，推动更多的社区互动。
 
 #### `第三章：篡`
+本章包含Explicit内容。作者目前正在寻找安全的方式发布这些内容，如果你对此有任何见解，可以通过Discussion 即这个链接 https://github.com/y-in-gb/open-fiction-access-token/discussions 自由发表你的建议。
+
+#### `第六章：潮`
 本章包含Explicit内容。作者目前正在寻找安全的方式发布这些内容，如果你对此有任何见解，可以通过Discussion 即这个链接 https://github.com/y-in-gb/open-fiction-access-token/discussions 自由发表你的建议。
 
 ## 🏆 致谢
@@ -101,5 +103,4 @@
 
 ### 本许可证的灵感来源
 - Creative Commons Attribution 4.0 International (CC BY 4.0)
-- MiniMax modified MIT License
 - Llama Community License
