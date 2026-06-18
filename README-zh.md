@@ -70,6 +70,8 @@
 #### `第六章：潮`
 本章包含Explicit内容。作者目前正在寻找安全的方式发布这些内容，如果你对此有任何见解，可以通过Discussion 即这个链接 https://github.com/y-in-gb/open-fiction-access-token/discussions 自由发表你的建议。
 
+*你可以通过哔哩哔哩，搜索“cv12743867”和“cv13031599”，查看第三章和第六章的删减版*
+
 ## 🏆 致谢
 ### 本小说的灵感来源
 - 吴承恩 (西游记 Journey to the West)
