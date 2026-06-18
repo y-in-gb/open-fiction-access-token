@@ -72,6 +72,8 @@ This chapter contains explicit content. Author is currently seeking a safe way t
 #### `Chapter 6: Overflow`
 This chapter contains explicit content. Author is currently seeking a safe way to release the content, if you have any thoughts, feel free to drop them in the discussion via https://github.com/y-in-gb/open-fiction-access-token/discussions
 
+*You can access the filtered version of Chapter 3 by searching "cv12743867" and Chapter 6 by searching "cv13031599"in Bilibili.*
+
 ## 🏆 Acknowledgement
 ### This Fiction is Inspired By
 - 吴承恩 (西游记 Journey to the West)
