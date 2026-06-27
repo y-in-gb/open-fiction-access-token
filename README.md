@@ -74,6 +74,10 @@ This chapter contains explicit content. Author is currently seeking a safe way t
 
 *You can access the filtered version of Chapter 3 by searching "cv12743867" and Chapter 6 by searching "cv13031599"in Bilibili.*
 
+## 🔬 Research done based on this Work
+### Valid Context Window: Real-world Translation Task Evaluation Study based of OFAT Raw Text Data and Open Source LLMs
+Check out https://github.com/y-in-gb/valid-context-window for the Methodology, Detailed Experiment Results, Prompts, and more.
+
 ## 🏆 Acknowledgement
 ### This Fiction is Inspired By
 - 吴承恩 (西游记 Journey to the West)
