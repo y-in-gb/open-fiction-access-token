@@ -74,7 +74,7 @@
 
 ## 🔬 基于本作品进行的研究
 ### 有效上下文窗口：基于OFAT原始文本数据和开源大语言模型的真实翻译任务评估研究
-你可通过https://github.com/y-in-gb/valid-context-window查看方法论、详细实验结果、提示词和更多详情。
+你可通过 https://github.com/y-in-gb/valid-context-window 查看方法论、详细实验结果、提示词和更多详情。
 
 ## 🏆 致谢
 ### 本小说的灵感来源
