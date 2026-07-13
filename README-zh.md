@@ -62,15 +62,7 @@
 *你可以通过标星🌟本项目来关注更新动态*
 
 ### 📢 通知
-由于爬虫和机器人数量过多，我将开始用其他形格式分享小说数据，以确保有人类能参与数据收集，推动更多的社区互动。
-
-#### `第三章：篡`
-本章包含Explicit内容。作者目前正在寻找安全的方式发布这些内容，如果你对此有任何见解，可以通过Discussion 即这个链接 https://github.com/y-in-gb/open-fiction-access-token/discussions 自由发表你的建议。
-
-#### `第六章：潮`
-本章包含Explicit内容。作者目前正在寻找安全的方式发布这些内容，如果你对此有任何见解，可以通过Discussion 即这个链接 https://github.com/y-in-gb/open-fiction-access-token/discussions 自由发表你的建议。
-
-*你可以通过哔哩哔哩，搜索“cv12743867”和“cv13031599”，查看第三章和第六章的删减版*
+你可通过 https://www.bilibili.com/read/readlist/rl442968 查看旧版小说内容。
 
 ## 🔬 基于本作品进行的研究
 ### 有效上下文窗口：基于OFAT原始文本数据和开源大语言模型的真实翻译任务评估研究
