@@ -64,15 +64,7 @@ Here's a screenshot of the fiction in Bilibili:
 *You may star🌟 this project to follow up the updates*
 
 ### 📢 Notice
-Due to crawlers and robots overflow, I’ll start to share the fiction data in another form to make sure there’s human-in-the-loop for better community interactions.
-
-#### `Chapter 3: Overthrow`
-This chapter contains explicit content. Author is currently seeking a safe way to release the content, if you have any thoughts, feel free to drop them in the discussion via https://github.com/y-in-gb/open-fiction-access-token/discussions
-
-#### `Chapter 6: Overflow`
-This chapter contains explicit content. Author is currently seeking a safe way to release the content, if you have any thoughts, feel free to drop them in the discussion via https://github.com/y-in-gb/open-fiction-access-token/discussions
-
-*You can access the filtered version of Chapter 3 by searching "cv12743867" and Chapter 6 by searching "cv13031599"in Bilibili.*
+You can access the old fiction content via https://www.bilibili.com/read/readlist/rl442968
 
 ## 🔬 Research done based on this Work
 ### Valid Context Window: Real-world Translation Task Evaluation Study based of OFAT Raw Text Data and Open Source LLMs
